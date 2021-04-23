@@ -1,0 +1,11 @@
+Model Information:
+* title:	NFT DANCE
+* source:	https://sketchfab.com/3d-models/nft-dance-d8e7173d68db4aa29d1974346192de5c
+* author:	otogstudio (https://sketchfab.com/otogstudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NFT DANCE" (https://sketchfab.com/3d-models/nft-dance-d8e7173d68db4aa29d1974346192de5c) by otogstudio (https://sketchfab.com/otogstudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
